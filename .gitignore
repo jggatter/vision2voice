@@ -1,0 +1,4 @@
+__pycache__/
+.vscode/
+vision2voice/
+*.json
